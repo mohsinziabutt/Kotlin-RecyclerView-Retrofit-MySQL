@@ -1,5 +1,6 @@
 # Kotlin-RecyclerView-Retrofit-MySQL
 This project includes: auto light/dark mode switching, registration/login and recycler view using retrofit 2 and MySQL
+
 Light Mode:
 ![light mode](https://user-images.githubusercontent.com/77164635/124164534-343b3600-daba-11eb-8135-1f4071deb802.jpg)
 Dark Mode:
