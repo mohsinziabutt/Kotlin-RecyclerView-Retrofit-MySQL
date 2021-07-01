@@ -37,9 +37,13 @@ android {
             res {
                 srcDirs 'src\\main\\res',
                         'src\\main\\res\\layouts\\login',
-                        'src\\main\\res\\layouts\\registration',
                         'src\\main\\res\\layouts\\login\\layout',
-                        'src\\main\\res\\layoyts\\registration\\layout'
+                        'src\\main\\res\\layouts\\registration',
+                        'src\\main\\res\\layouts\\registration\\layout',
+                        'src\\main\\res\\layouts\\main',
+                        'src\\main\\res\\layouts\\main\\layout',
+                        'src\\main\\res\\layouts\\recycler_item',
+                        'src\\main\\res\\layouts\\recycler_item\\layout'
             }
         }
     }
